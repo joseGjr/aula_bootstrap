@@ -1,0 +1,20 @@
+.body{
+    background-image:url(multgames.jpg);
+
+}
+.navbar{
+    background-color: white;
+    border: cornflowerblue 2px solid;
+    font-family: 'Righteous', cursive;
+    
+}
+
+.sn{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+   
+}
+.margin{
+    padding-top: 50px;
+}
