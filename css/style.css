@@ -3,18 +3,39 @@
 
 }
 .navbar{
-    background-color: white;
-    border: cornflowerblue 2px solid;
+    background-color: #7569B0;
+    
+    border: #7569B0 2px solid;
     font-family: 'Righteous', cursive;
     
 }
 
-.sn{
+.quem-somos{
     background-color: cornflowerblue;
     text-align: center;
     font-family: 'Righteous', cursive;
-   
+    color: white;
 }
 .margin{
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: #DA7E43;
+    font-family: 'Righteous', cursive;
+    color: yellow;
+    text-align: center;
+}
+.serv{
+    background-color: #EEE965;
+    border: #EEE965 2px solid;
+    font-family: 'Righteous', cursive;
+    color: black;
+    text-align: center;
+    
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
 }
